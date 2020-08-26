@@ -1,0 +1,383 @@
+/* XL Device :1200px. */
+@media (min-width: 1450px) and (max-width: 1920px) {
+
+	.hero-area-main {
+		margin: 0 100px;
+	}
+	.about-bottom-area::after {
+		width: 440px;
+	}
+	.project-details {
+		padding-left: 15%;
+		padding-top: 8%
+	}
+}
+
+
+
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+	.hero-slider-item {
+
+		padding-top: 110px;
+	}
+	
+	.home-page header > .container {
+		max-width: 1100px;
+	}
+	.project-details {
+	    padding-left: 100px;
+	}
+	.sec-padding {
+		margin: 0 40px;
+	}
+	.about-area {
+		margin-top: 120px;
+	}
+	.contact-banner {
+		margin-top: 100px;
+	}
+	.container {
+		max-width: 1080px;
+	}
+	.mainmenu ul li a {
+		font-size: 14px;
+	}
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.sec-padding {
+		margin: 0 25px;
+	}
+	.hero-slider-item {
+		padding-left: 100px;
+	}
+	.hero-slider {
+		height: 70vh;
+		padding-top: 100px;
+	}
+	.project-details {
+		padding-left: 20px;
+		padding-top: 90px
+	}
+	.about-area {
+		margin-top: 130px;
+	}
+	.about-area h2 {
+		font-size: 50px;
+	}
+	.area-title h2 {
+		font-size: 50px;
+	}
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.sec-padding {
+		margin: 0 15px;
+	}
+	.logo img {
+		width: 140px;
+	}
+	.hero-slider {
+		height: 70vh;
+		padding-top: 100px;
+	}
+	.hero-slider-item h1 {
+		font-size: 50px;
+	}
+	.hero-slider-item {
+		padding-left: 80px;
+	}
+	.slider-bottom {
+		background: #FF2D00;
+		height: 120px;
+		left: 0;
+	}
+	.media-link li a {
+		font-size: 16px;
+	}
+	.media-link li a {
+		margin-left: 0;
+	}
+	.slider-bottom-text p {
+		color: #888;
+		font-size: 11px;
+		margin: 0px 0;
+		padding-right: 10px
+	}
+
+	.intro-text p {
+		font-size: 16px;
+	}
+	.intro-text h2 {
+		font-size: 32px;
+		margin: 25px 0;
+	}
+	.intro-text span {
+		margin: 25px 0;
+	}
+	.intro-text img {
+		width: 150px;
+	}
+	.mainmenu ul li a {
+		font-size: 13px;
+	}
+	.about-box {
+		width: 65%;
+		padding: 60px;
+		padding-right: 80px;
+	}
+	.about-area {
+		margin-top: 120px;
+	}
+	.about-area h2 {
+		margin-top: 120px;
+		font-size: 45px;
+	}
+	.about-box p {
+		font-size: 16px;
+		letter-spacing: .5px;
+		color: #888;
+	}
+	.about-img-box {
+		height: 100%;
+		width: 100%;
+		float: right;
+	}
+	.about-bottom-area::after {
+		width: 25%;
+	}
+	.about-bottom-text p {
+		font-size: 15px;
+	}
+	.about-bottom-text h2 {
+		font-size: 36px;
+		margin-bottom: 30px;
+	}
+	.area-title h2 {
+		font-size: 40px;
+	}
+	.product-title-area::after {
+		top: 35px;
+	}
+	.area-title {
+		margin-bottom: 50px;
+	}
+	.product-item h4 {
+		font-size: 22px;
+		letter-spacing: 2px;
+	}
+	.contact-banner h2 {
+		font-size: 60px;
+	}
+	.contact-banner {
+		margin-top: 70px;
+	}
+	.project-details {
+		padding: 50px;
+		padding-left: 0;
+	}
+
+
+
+
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+	.sec-padding {
+		margin: 0px;
+	}
+	.hero-slider-item h1 {
+		font-size: 40px;
+	}
+	.hero-slider-item p {
+		font-size: 20px;
+	}
+	.mainmenu ul li a {
+		font-size: 13px;
+	}
+	.hero-slider {
+		height: 80vh;
+		padding-top: 60px;
+	}
+	.slider-bottom::after {
+		display: none;
+	}
+	.slider-bottom-text {
+		background: #ff2d00;
+		padding-top: 15px;
+	}
+	.intro-text p {
+		font-size: 16px;
+	}
+	.intro-text h2 {
+		font-size: 32px;
+		margin: 25px 0;
+	}
+	.intro-text span {
+		margin: 25px 0;
+	}
+	.intro-text img {
+		width: 150px;
+	}
+	.intro-text {
+		max-width: 400px;
+		text-align: center;
+		margin: 35px 0;
+	}
+	.ml-lf {
+		margin-left: 0;
+	}
+	.ml-r8 {
+		margin-right: 0;
+	}
+	.product-item {
+		margin-bottom: 50px;
+	}
+	.footer-link {
+		margin-bottom: 50px;
+	}
+	.hero-slider-item {
+		text-align: center;
+	}
+	.custom-btn {
+		width: 180px;
+		height: 46px;
+		margin: 0 auto;
+	}
+	.hero-slider-item p {
+		font-size: 15px;
+	}
+	.hero-area .owl-nav i {
+		font-size: 22px;
+	}
+	.about-area h2 {
+		margin-top: 80px;
+		font-size: 32px;
+	}
+	.about-area {
+		margin-top: 120px;
+	}
+	.about-box {
+		width: 85%;
+		padding: 25px;
+		padding-bottom: 0;
+		padding-right: 25px;
+	}
+	.about-box h2 {
+		font-size: 24px;
+		margin-bottom: 15px;
+	}
+	.about-box p {
+		font-size: 15px;
+	}
+	.logo img {
+		width: 110px;
+	}
+	.search-boxs.active {
+		width: 180px;
+		height: 40px;
+	}
+	.about-img-box {
+		height: 400px;
+		width: 100%;
+		margin-top: 50px;
+	}
+	.about-bottom-area::after {
+		display: none;
+	}
+	.about-bottom-text p {
+		font-size: 16px;
+		letter-spacing: .4px;
+	}
+	.about-box-area {
+		margin-bottom: 0px;
+	}
+	.area-title h2 {
+		font-size: 24px;
+	}
+	.area-title {
+		margin-bottom: 50px;
+	}
+	.contact-banner h2 {
+		font-size: 36px;
+	}
+	.contact-banner p {
+		font-size: 18px;
+	}
+	.contact-banner {
+		height: 550px;
+	}
+	.form-box {
+		padding: 35px 25px;
+		margin-top: -140px;
+	}
+	.contact-text {
+		padding-top: 80px;
+	}
+	.intro-box {
+		text-align: center;
+	}
+	.project-details {
+		padding: 15px;
+		width: 65%;
+		padding-left: 0;
+	}
+	.single-product-bg .project-details {
+		width: 65%;
+		padding: 15px
+	}
+	.project-details.active {
+		visibility: visible;
+		opacity: 1;
+		width: 65%;
+		padding: 15px !important;
+		padding-top: 80px !important;
+	}
+	.play-botton {
+		top: 60%;
+		right: 10%;
+	}
+	.details-title h2 {
+		font-size: 24px;
+	}
+	.details-title {
+		border-bottom: 1px solid #888;
+		margin-right: 0;
+	}
+	.details-title p {
+		letter-spacing: 0;
+		font-size: 13px;
+	}
+	.details-list li {
+		margin-bottom: 8px;
+		font-size: 14px;
+	}
+	.details-list li span {
+		font-size: 13px;
+	}
+	.details-list {
+		margin-top: 10px;
+	}
+	.hero-slider {
+		height: 85vh;
+		padding-top: 60px;
+	}
+
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
